@@ -1,10 +1,5 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
 
-body {
+.containerBody {
   background-color: #1B2A34; /* Dark greenish background */
   color: #ffffff; /* White text for better visibility */
  
