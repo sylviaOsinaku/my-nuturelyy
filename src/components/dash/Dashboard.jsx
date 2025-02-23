@@ -24,7 +24,7 @@ const Dashboard = () => {
     name: "Kemi",
     trimester: "1st Trimester",
     week: 4,
-    dueDate: "2025-11-10",
+    dueDate: "2025-11-12",
     healthStatus: "healthy", // Simulating health input (healthy, moderate, tired)
   };
 
