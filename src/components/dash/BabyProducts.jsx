@@ -50,7 +50,7 @@ const BabyProducts = () => {
             <h3 className={styles.productName}>{product.name}</h3>
             <p className={styles.productCategory}>{product.category}</p>
             <p className={styles.productDescription}>{product.description}</p>
-            <p className={styles.productPrice}>${product.price}</p>
+            <p className={styles.productPrice}>NGN{product.price}</p>
             <button onClick={() => addToCart(product)} className={styles.addToCartButton}>
               Add to Cart <BaselineProductionQuantityLimits/>
             </button>
